@@ -1,0 +1,11 @@
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.Form1.resources
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.Properties.Resources.resources
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.csproj.GenerateResource.cache
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.csproj.CoreCompileInputs.cache
+C:\Users\angeL\source\repos\forLab2\forLab2\bin\Debug\forLab2.exe.config
+C:\Users\angeL\source\repos\forLab2\forLab2\bin\Debug\forLab2.exe
+C:\Users\angeL\source\repos\forLab2\forLab2\bin\Debug\forLab2.pdb
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.exe
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.pdb
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.Form2.resources
+C:\Users\angeL\source\repos\forLab2\forLab2\obj\Debug\forLab2.csproj.AssemblyReference.cache
